@@ -1,0 +1,2 @@
+How are integers stored on a computer?
+Answer: as bytes

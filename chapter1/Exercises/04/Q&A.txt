@@ -1,0 +1,8 @@
+Question:
+What is a string?
+Answer: 
+an array of bytes
+Question:
+How do you find its length?
+Answer:
+len("string")

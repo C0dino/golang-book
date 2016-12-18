@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println("32,132 * 42,452 =", 32132*42452)
 }
