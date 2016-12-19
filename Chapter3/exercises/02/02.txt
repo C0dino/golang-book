@@ -1,0 +1,4 @@
+Question:
+What is the value of x := 5; x += 1
+Answer:
+6

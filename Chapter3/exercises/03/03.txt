@@ -1,0 +1,9 @@
+Question:
+What is Scope? 
+Answer:
+Scope is contained within the block being referred to (wether package level or within a function code block)
+Question: 
+How do you determine the scope of a varibale in go?
+Answer:
+The scope of a varable is determined by its place within the code.  If its outside the main function and at the package level
+it is said to have package scope.  If it is within a function, then the scope of the varibale is limited to only that function

@@ -1,0 +1,9 @@
+Question:
+
+Using the example as a starting point, write a program that
+converts farenheight to celsius
+
+Example Program:
+(C= (F - 32)5*9)
+
+Answer: main.go

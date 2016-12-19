@@ -1,0 +1,5 @@
+Question:
+What is the difference between a variable & a constant?
+Answer:
+Variables can be dynamically assigned new values 
+Constants have a defined value that cannot be changed

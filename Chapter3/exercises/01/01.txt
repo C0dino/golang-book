@@ -1,0 +1,6 @@
+Question: 
+What are two ways to create a new variable?
+Answer:
+var x int
+y := 8
+ 
