@@ -1,0 +1,3 @@
+Question:
+write a program that prints all the numbers from 1 to 100
+that are evenly divisible by 3 (i.e., 3, 6, 9)

@@ -1,0 +1,14 @@
+Question:
+
+What does the following statement print?
+
+i := 10
+
+if i > 10 {
+    fmt.Println("Big")
+}else {
+    fmt.Println("Small")
+}
+
+Answer: 
+Small
