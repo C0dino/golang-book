@@ -5,7 +5,7 @@ import (
 	"sort"
 )
 
-// var n, smallest, bigest int
+// var n, smallest, biggest int
 
 func main() {
 	numbers := []int{
@@ -27,11 +27,11 @@ func main() {
 	// 		} else {
 	// 			fmt.Println(v, "<", n)
 	// 			n = v
-	// 			bigest = n
+	// 			biggest = n
 	// 		}
 
 	// 	}
-	// 	fmt.Println(bigest, "Is the biggest number")
+	// 	fmt.Println(biggest, "Is the biggest number")
 
 	// 	for _, v := range x {
 	// 		if v > n {
