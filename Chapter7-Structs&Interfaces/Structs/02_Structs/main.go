@@ -25,8 +25,8 @@ func rectangleArea(x1, y1, x2, y2 float64) float64 {
 	return l * w
 }
 
-func circleArea(x, y, r float64) float64 {
-	return math.Pi * r * r
+func circleArea(c circle) float64 {
+	return math.Pi * c.r * c.r
 }
 
 func main() {
@@ -39,9 +39,7 @@ func main() {
 
 	var rx1, ry1 float64 = 0, 0
 	var rx2, ry2 float64 = 10, 10
-	var cx, cy, cr float64 = 0, 0, 5
 
 	fmt.Println(rectangleArea(rx1, ry1, rx2, ry2))
-	fmt.Println(circleArea(cx, cy, cr))
 
 }
